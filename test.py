@@ -1,3 +1,5 @@
+print("aeju")
+
 # 샘플 Python 스크립트입니다.
 
 # ⌃R을(를) 눌러 실행하거나 내 코드로 바꿉니다.
@@ -15,4 +17,3 @@ if __name__ == '__main__':
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
 print('aeju')
-print('new')
