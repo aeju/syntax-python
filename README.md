@@ -2,7 +2,7 @@
 ### 부록 A. 코딩 테스트를 위한 파이썬 문법
 - 2023.02.20 ~ 2023.03.06
 
-##1. 자료형
+## 1. 자료형
 1) 수 자료형
 - 정수형
 - 실수형
@@ -29,23 +29,23 @@
 - add(), update(여러 개 추가), remove()
 
 
-##2. 조건문
+## 2. 조건문
 - if, elif, else
 - 비교 연산자, 논리 연산자, in / not in (값 존재 확인)
 - 조건부 표현식 
 
 
-##3. 반복문
+## 3. 반복문
 1) while문
 2) for문
 
 
-##4. 함수
+## 4. 함수
 1) def 함수명(매개변수):
 2) 람다 표현식
 
 
-##5. 입출력
+## 5. 입출력
 1) 입력 
 - input()
 - readline()
@@ -55,7 +55,7 @@
 - f-string(자료형 변환없이 문자열 + 정수 가능)
 
 
-##6. 라이브러리
+## 6. 라이브러리
 1) 내장 함수 : input(), print(), sum(), min(), eval(), sorted()
 2) itertools : permutations, combinations, product, combinations_with_replacement
 3) heapq : heapq.heappush(), heapq.heappop()
@@ -66,4 +66,4 @@
 6) math : factorial(), sqrt(), gcd(), pi, e
 
 
-##7. 자신만의 알고리즘 노트 만들기
+## 7. 자신만의 알고리즘 노트 만들기
